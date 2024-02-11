@@ -1,4 +1,5 @@
 # Hello there 👋 <br> Rozan is here 😎
+![loading-image](duck-r.gif)
 
 <!-- ## What am I interested in?
 - 👨‍💻 Competitive Programming
