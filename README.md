@@ -1,7 +1,15 @@
-### Hi there 👋
+# <p style="text-align: center;">Hello there 👋<br> Rozan is here 😎</p>
+
+<!-- ## What am I interested in?
+- 👨‍💻 Competitive Programming
+- ➗ Math
+- 🌐 Web Development
+
+## Mastered Languages
+
+-->
 
 <!--
-**rozanlaudzai/rozanlaudzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
