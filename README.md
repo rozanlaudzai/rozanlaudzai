@@ -1,5 +1,5 @@
 # Hello there 👋 <br> Rozan is here 😎
-![loading-image](duck-r.gif)
+![loading-image](https://github.com/rozanlaudzai/rozanlaudzai/blob/main/duck-r.gif?raw=true)
 
 <!-- ## What am I interested in?
 - 👨‍💻 Competitive Programming
