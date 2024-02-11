@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋 <br> Rozan is here 😎</h1>
-<p><img src="duck-r.gif" width="200px"></p>
+<img src="bebek r.gif" width="200px">
+
+![](duck-r.gif)
 
 <!-- ## What am I interested in?
 - 👨‍💻 Competitive Programming
