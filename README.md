@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Hello there 👋<br> Rozan is here 😎</p>
+# <div style="text-align: center;">Hello there 👋<br> Rozan is here 😎</div>
 
 <!-- ## What am I interested in?
 - 👨‍💻 Competitive Programming
