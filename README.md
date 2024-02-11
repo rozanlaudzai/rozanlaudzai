@@ -1,5 +1,5 @@
-# Hello there 👋 <br> Rozan is here 😎
-![loading-image](https://github.com/rozanlaudzai/rozanlaudzai/blob/main/duck-r.gif?raw=true)
+<h1 align="center">Hello there 👋 <br> Rozan is here 😎</h1>
+<p><img src="duck-r.gif" width="200px"></p>
 
 <!-- ## What am I interested in?
 - 👨‍💻 Competitive Programming
