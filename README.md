@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello there 👋 <br> Rozan is here 😎</h1>
-  <img src="duck-r.gif" width="200px" style="border-radius: 100px;" />
+  <img src="duck-r.gif" width="200px" />
 </div>
 
 <!-- ## What am I interested in?
