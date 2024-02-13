@@ -3,11 +3,6 @@
   <img src="duck-r.gif" width="200px" />
 </div>
 
-Competitive Programming Accounts:
-- Codeforces: rozan_nich
-- Atcoder: rozanlaudzai
-- TLX: rozanlaudzai
-
 <!-- ## What am I interested in?
 - 👨‍💻 Competitive Programming
 - ➗ Math
