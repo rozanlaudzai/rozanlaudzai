@@ -3,7 +3,7 @@
   <img src="duck-r.gif" width="200px" />
 </div>
 
-CP Accounts:
+Competitive Programming Accounts:
 - Codeforces: rozan_nich
 - Atcoder: rozanlaudzai
 - TLX: rozanlaudzai
