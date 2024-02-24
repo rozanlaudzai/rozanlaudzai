@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hello there 👋 <br> Rozan is here 😎</h1>
   <img src="duck-r.gif" width="200px" />
+
+  <audio controls autoplay src="HEAVENLY CHOIR.mp3" />
 </div>
 
 <!-- ## What am I interested in?
