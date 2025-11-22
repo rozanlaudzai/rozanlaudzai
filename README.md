@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me
 
-* **History:** "Failed" competitive programmer (and proud of it).
-* **Current Focus:** Backend architecture & DevOps pipelines.
+* **History:** "Failed" competitive programmer (and proud of it)
+* **Current Focus:** Backend & DevOps
 * **OS:** I bounce between **Windows** and **Ubuntu** depending on my mood.
 
 ---
