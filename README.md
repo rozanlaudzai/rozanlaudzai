@@ -30,4 +30,4 @@ Here is the stuff I use to get things done:
 
 ### ⚡ Fun Fact
 
-**#1 Javascript hater**, but I still love Typescript. 💛
+**#1 Javascript hater**, but still love Typescript.💙
