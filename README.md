@@ -2,9 +2,9 @@
 
 ### 👨‍💻 About Me
 
-* **History:** "Failed" competitive programmer (and proud of it)
-* **Current Focus:** Backend & DevOps
-* **OS:** I bounce between **Windows** and **Ubuntu** depending on my mood.
+* History: "Failed" competitive programmer (and proud of it)
+* Current Focus: Backend & DevOps
+* OS: I bounce between Windows and Ubuntu depending on my mood.
 
 ---
 
@@ -28,4 +28,4 @@ Here is the stuff I use to get things done:
 
 ### ⚡ Fun Fact
 
-**#1 Javascript hater**, but still love Typescript.💙
+#1 Javascript hater, but still love Typescript.💙
