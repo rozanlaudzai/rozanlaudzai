@@ -1,7 +1,5 @@
 # Hi there, I'm Rozan! 👋
 
-> *Recovering competitive programmer turned Backend & DevOps enthusiast.*
-
 ### 👨‍💻 About Me
 
 * **History:** "Failed" competitive programmer (and proud of it)
@@ -10,7 +8,7 @@
 
 ---
 
-### 🛠️ Techstack
+### 🛠️ Tech & Tools
 
 Here is the stuff I use to get things done:
 
