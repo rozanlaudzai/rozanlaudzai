@@ -6,6 +6,8 @@
 * Current Focus: Backend & DevOps
 * OS: I bounce between Windows and Ubuntu depending on my mood.
 
+---
+
 ### 🛠️ Tech & Tools
 
 Here is the stuff I use to get things done:
@@ -21,6 +23,8 @@ Here is the stuff I use to get things done:
 **Data & Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ### ⚡ Fun Fact
 
